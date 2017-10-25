@@ -1,0 +1,2 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+1,99999,TheTest,600,France,Male,40,3,60000,2,1,1,50000
